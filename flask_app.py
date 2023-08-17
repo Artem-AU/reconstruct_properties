@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, redirect
 import json
 from functions_au import all_prop_list, reconstruct_prop_dict, get_attribute_id, write_dict_to_csv, write_dict_recursive
 
@@ -14,12 +14,15 @@ def index():
     # print('prop_dict:', prop_dict)
     return render_template('index.html', prop_dict=json.dumps(prop_dict), all_properties=all_properties, selected_properties=selected_properties)
 
-@app.route('/upload', methods=['POST'])
+@app.route('/upload', methods=['GET', 'POST'])
 def upload():
     global prop_dict
-    file = request.files['file']
-    file_contents = file.read().decode('utf-8')
-    prop_dict = json.loads(file_contents)
+    if request.method == 'POST':
+        file = request.files['file']
+        if file:
+            file_contents = file.read().decode('utf-8')
+            prop_dict = json.loads(file_contents)
+            return redirect('/all_props')
     return jsonify({'filename': file.filename})
 
 @app.route('/all_props', methods=['GET', 'POST'])
@@ -29,8 +32,10 @@ def all_props():
         selected_properties = request.json['selected_properties']
         return jsonify({'message': 'Selected properties stored successfully'})
     else:
+        print('all_props_prop_dict_len:', len(prop_dict))
         props = all_prop_list(prop_dict)
         all_properties += props
+        print('all_properties_len:', len(all_properties))
         return jsonify({'all_props': all_properties, 'selected_properties': selected_properties})
 
 

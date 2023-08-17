@@ -36,11 +36,13 @@ with open('82fc28f3cb6a9693151e6531e249d791.props_unzipped.json', 'r') as f:
 
 # PRINT PROPERTIES CATEGORIES + PROPERTY NAMES
 def all_prop_list(prop_dict):
+    # print('prop_dict:', prop_dict)
     prop_list = []
     if "Attributes" in prop_dict.keys():
         for attribute in prop_dict['Attributes']:
             if "displayName" in attribute.keys():
                 prop_list.append(attribute["category"] + "." + attribute["displayName"])
+    # print('props:', prop_list)
     return prop_list
 
 # for item in all_prop_list(prop_dict):
