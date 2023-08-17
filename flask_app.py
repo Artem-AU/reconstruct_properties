@@ -8,6 +8,7 @@ prop_dict = {'key': 'value'}
 all_properties = []
 selected_properties = []
 
+
 @app.route('/')
 def index():
     # print('prop_dict:', prop_dict)

@@ -27,11 +27,16 @@
     </form>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        const app = {prop_dict: JSON.parse('{{ prop_dict|safe }}')};
+        const app = {
+            prop_dict: '{{ prop_dict|tojson }}',
+            all_properties: '{{ all_properties|tojson }}',
+            selected_properties: '{{ selected_properties|tojson }}'
+        };
         const fileInput = document.getElementById('file-input');
         const uploadButton = document.getElementById('upload-button');
         const currentFile = document.getElementById('current-file');
-        app.prop_dict = JSON.parse('{{ prop_dict|safe }}');
+        const escaped_prop_dict = JSON.stringify(app.prop_dict).replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+        app.prop_dict = JSON.parse(`"${escaped_prop_dict}"`);
         const selectProperties = document.getElementById('select-properties');
         const propertySelectContainer = document.getElementById('property-select-container');
         const addPropertyButton = document.getElementById('add-property-button');
@@ -46,14 +51,14 @@
             })
             .then(response => response.json())
             .then(data => {
-                currentFile.textContent = `Current properties JSON: ${data.filename}`;
+                currentFile.textContent = `Current JSON: ${data.filename}`;
                 selectProperties.style.display = 'block';
                 const propertySelect = document.querySelector('.property-select');
-                populatePropertySelect(propertySelect);
+                populatePropertySelect(propertySelect, app.all_properties);
+                console.log(app.all_properties);
             })
             .catch(error => console.error(error));
         });
-        console.log('fileInput:', fileInput);
         fileInput.addEventListener('change', () => {
             if (fileInput.value) {
                 uploadButton.disabled = false;
@@ -75,7 +80,7 @@
             } else {
                 propertySelectContainer.appendChild(newPropertySelect);
             }
-            populatePropertySelect(newPropertySelect);
+            populatePropertySelect(newPropertySelect, app.all_properties);
         });
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -124,20 +129,17 @@
             });
         });
 
-        function populatePropertySelect(select) {
+        function populatePropertySelect(select, properties) {
             select.innerHTML = '';
-            const option = document.createElement('option');
-            option.value = '';
-            option.textContent = 'Select a property';
-            select.appendChild(option);
-            for (const prop of all_properties) {
-                const option = document.createElement('option');
-                option.value = prop;
-                option.textContent = prop;
-                select.appendChild(option);
+            if (properties) {
+                for (const value of properties) {
+                    const option = document.createElement('option');
+                    option.value = value;
+                    option.text = value;
+                    select.appendChild(option);
+                }
             }
         }
-
         function updateSelectedProperties() {
             const selectedProperties = Array.from(document.querySelectorAll('.property-select option:checked')).map(option => option.value);
             fetch('/update_properties', {
@@ -220,11 +222,38 @@
             });
         }
 
-        try {
-            const propDict = JSON.parse(prop_dict);
-            console.log('prop_dict is valid JSON');
-        } catch (error) {
-            console.error('prop_dict is not valid JSON:', error.message);
+        // try {
+        //     const propDict = JSON.parse(prop_dict);
+        //     console.log('prop_dict is valid JSON');
+        // } catch (error) {
+        //     console.error('prop_dict is not valid JSON:', error.message);
+        // }
+
+        function handleUpload() {
+            const fileInput = document.getElementById('file-input');
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                // update selected_properties global variable with data.selected_properties
+                fetch('/all_props', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        selected_properties: data.selected_properties
+                    })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // use data.all_props and data.selected_properties in dropdowns
+                });
+            });
         }
     </script>
 </body>
