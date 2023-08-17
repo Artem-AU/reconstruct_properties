@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+</head>
+<body>
+    <h1>Result</h1>
+    {% macro display_dict(d) %}
+        {% if d is mapping %}
+            <ul>
+                {% for key, value in d.items() %}
+                    <li>{{ key }}:</li>
+                    {{ display_dict(value) }}
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endmacro %}
+    
+    <ul>
+        {% for key, value in reconstructed_dict.items() %}
+            {% if value is mapping %}
+                <li>{{ key }}:</li>
+                {{ display_dict(value) }}
+            {% else %}
+                <li>{{ key }}</li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+    
+
+</body>
+</html>

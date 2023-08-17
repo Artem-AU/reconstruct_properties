@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select Properties</title>
+</head>
+<body>
+    <h1>Select Properties</h1>
+    <form action="/run_function" method="get">
+        <div id="dropdowns">
+            <label for="property1">Select property 1:</label>
+            <select name="property1" id="property1">
+                {% for property in all_properties_list %}
+                    <option value="{{ property }}">{{ property }}</option>
+                {% endfor %}
+            </select>
+            <br><br>
+        </div>
+        <button type="button" onclick="addDropdown()">Add Property</button>
+        <br><br>
+        <input type="submit" value="Reconstruct Properties">
+    </form>
+    <script>
+        function addDropdown() {
+            var dropdowns = document.getElementById("dropdowns");
+            var numDropdowns = dropdowns.childElementCount / 2;
+            var label = document.createElement("label");
+            label.setAttribute("for", "property" + (numDropdowns + 1));
+            label.textContent = "Select property " + (numDropdowns + 1) + ":";
+            var select = document.createElement("select");
+            select.setAttribute("name", "property" + (numDropdowns + 1));
+            select.setAttribute("id", "property" + (numDropdowns + 1));
+            {% for property in all_properties_list %}
+                var option = document.createElement("option");
+                option.setAttribute("value", "{{ property }}");
+                option.textContent = "{{ property }}";
+                select.appendChild(option);
+            {% endfor %}
+            var br = document.createElement("br");
+            dropdowns.appendChild(label);
+            dropdowns.appendChild(select);
+            dropdowns.appendChild(br);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reconstruct Properties</title>
+</head>
+<body>
+    <h1>Reconstruct Properties</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data" id="upload-form">
+        <input type="file" name="file" id="file-input"><br>
+        <input type="submit" value="Upload" id="upload-button" disabled>
+    </form>
+    <div id="current-file">Current JSON:</div>
+    <div id="select-properties" style="display: none;">
+        <h2>Select Properties</h2>
+        <div id="property-select-container">
+            <select class="property-select">
+                <option value="">Select a property</option>
+            </select>
+        </div>
+        <button id="add-property-button">Add Property</button>
+        <button id="remove-property-button">Remove Property</button>
+        <div id="selected-properties"></div>
+    </div>
+    <form>
+        <button id="write-csv-btn">Write CSV</button>
+        <div id="result"></div>
+    </form>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        const app = {prop_dict: JSON.parse('{{ prop_dict|safe }}')};
+        const fileInput = document.getElementById('file-input');
+        const uploadButton = document.getElementById('upload-button');
+        const currentFile = document.getElementById('current-file');
+        app.prop_dict = JSON.parse('{{ prop_dict|safe }}');
+        const selectProperties = document.getElementById('select-properties');
+        const propertySelectContainer = document.getElementById('property-select-container');
+        const addPropertyButton = document.getElementById('add-property-button');
+        const uploadForm = document.getElementById('upload-form');
+        const selectedProperties = [];
+        uploadForm.addEventListener('submit', (event) => {
+            event.preventDefault();
+            const formData = new FormData(uploadForm);
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                currentFile.textContent = `Current properties JSON: ${data.filename}`;
+                selectProperties.style.display = 'block';
+                const propertySelect = document.querySelector('.property-select');
+                populatePropertySelect(propertySelect);
+            })
+            .catch(error => console.error(error));
+        });
+        console.log('fileInput:', fileInput);
+        fileInput.addEventListener('change', () => {
+            if (fileInput.value) {
+                uploadButton.disabled = false;
+            } else {
+                uploadButton.disabled = true;
+            }
+        });
+        addPropertyButton.addEventListener('click', () => {
+            const propertySelects = document.querySelectorAll('.property-select');
+            const lastPropertySelect = propertySelects[propertySelects.length - 1];
+            const newPropertySelect = document.createElement('select');
+            newPropertySelect.classList.add('property-select');
+            const option = document.createElement('option');
+            option.value = '';
+            option.textContent = 'Select a property';
+            newPropertySelect.appendChild(option);
+            if (propertySelectContainer.contains(addPropertyButton.nextElementSibling)) {
+                propertySelectContainer.insertBefore(newPropertySelect, addPropertyButton.nextElementSibling);
+            } else {
+                propertySelectContainer.appendChild(newPropertySelect);
+            }
+            populatePropertySelect(newPropertySelect);
+        });
+
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('/all_props')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const propertySelects = document.querySelectorAll('.property-select');
+                    propertySelects.forEach(select => {
+                        data.all_props.forEach(prop => {
+                            const option = document.createElement('option');
+                            option.value = prop;
+                            option.textContent = prop;
+                            select.appendChild(option);
+                        });
+                        select.addEventListener('change', () => {
+                            selectedProperties.length = 0;
+                            const propertySelects = document.querySelectorAll('.property-select');
+                            propertySelects.forEach(select => {
+                                const selectedOption = select.options[select.selectedIndex];
+                                if (selectedOption.value !== '') {
+                                    selectedProperties.push(selectedOption.value);
+                                }
+                            });
+                            updateSelectedProperties();
+                        });
+                    });
+                })
+                .catch(error => console.error(error));
+        });
+
+        document.getElementById('write-csv-btn').addEventListener('click', function() {
+            fetch('/write_csv', {
+                method: 'POST'
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);
+            })
+            .catch(error => {
+                console.error(error);
+            });
+        });
+
+        function populatePropertySelect(select) {
+            select.innerHTML = '';
+            const option = document.createElement('option');
+            option.value = '';
+            option.textContent = 'Select a property';
+            select.appendChild(option);
+            for (const prop of all_properties) {
+                const option = document.createElement('option');
+                option.value = prop;
+                option.textContent = prop;
+                select.appendChild(option);
+            }
+        }
+
+        function updateSelectedProperties() {
+            const selectedProperties = Array.from(document.querySelectorAll('.property-select option:checked')).map(option => option.value);
+            fetch('/update_properties', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ selected_properties: selectedProperties })
+            })
+            .then(response => {
+                if (response.ok) {
+                    return response.json();
+                } else {
+                    throw new Error('Failed to update selected properties');
+                }
+            })
+            .then(data => {
+                console.log(data.message);
+                fetch('/reconstruct', {
+                    method: 'POST'
+                })
+                .then(response => {
+                    if (response.ok) {
+                        return response.text();
+                    } else {
+                        throw new Error('Failed to reconstruct property dictionary');
+                    }
+                })
+                .then(data => {
+                    const resultDiv = document.getElementById('result');
+                    if (resultDiv) {
+                        resultDiv.innerHTML = data;
+                    } else {
+                        console.error('Result div not found');
+                    }
+                    const selectedPropertiesDiv = document.getElementById('selected-properties');
+                    if (selectedPropertiesDiv) {
+                        selectedPropertiesDiv.innerHTML = '';
+                        const ul = document.createElement('ul');
+                        selectedProperties.forEach(property => {
+                            const li = document.createElement('li');
+                            li.textContent = property;
+                            ul.appendChild(li);
+                        });
+                        selectedPropertiesDiv.appendChild(ul);
+                    } else {
+                        console.error('Selected properties div not found');
+                    }
+                    fetch('/write_csv', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            prop_dict: JSON.parse(app.prop_dict),
+                            filename: 'output.csv',
+                            headers: ['Property', 'Value']
+                        })
+                    })
+                    .then(response => {
+                        if (response.ok) {
+                            return response.json();
+                        } else {
+                            throw new Error('Failed to write CSV file');
+                        }
+                    })
+                    .then(data => {
+                        console.log('CSV file written successfully');
+                    })
+                    .catch(error => {
+                        console.error(error);
+                    });
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+            })
+            .catch(error => {
+                console.error(error);
+            });
+        }
+
+        try {
+            const propDict = JSON.parse(prop_dict);
+            console.log('prop_dict is valid JSON');
+        } catch (error) {
+            console.error('prop_dict is not valid JSON:', error.message);
+        }
+    </script>
+</body>
+</html>

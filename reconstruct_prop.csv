@@ -1,0 +1,1877 @@
+Contractor_Attributes.C_PDS_SubzoneCode,Contractor_Attributes.C_PDS_Subdiscipline,IFC Type.IfcName [Type]
+_NotFound
+,_NotFound
+,,_NotFound
+,,HYD_ConcreteBeam:200D x 600W
+,,HYD_ConcRectangColumn:300x600
+,,HYD_ConcRectangColumn:350x800
+,,HYD_ConcRectangColumn:500x900
+,,HYD_ConcRoundColumn:1500 DIA
+,,HYD_ConcSquareColumn:500x500
+,,Floor:RC 125_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 300_HYD
+,,Foundation Slab:600 Foundation Slab
+,,HYD_PadFooting:PF1 - 4000 x 4000 x 1800
+,,HYD_PadFooting:PF12 - 1200 x 1200 x 520-650D
+,,HYD_PadFooting:PF2 - 3600 x 3600 x 1800
+,,HYD_PadFooting:PF3 - 1800 x 1700 x 1000D
+,,HYD_PadFooting:PF4 - 1200 x 1200 x 800D
+,,HYD_PadFooting:PF5 - 2300 x 800 x 1000D
+,,Basic Wall:RC 200 SLAB FOLD_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 250 DOWNTURN BEAM
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Floor:RC 150_HYD
+,,HYD_PadFooting:PF7 - 1300 x 1300 x 600D
+,,HYD_ConcRectangColumn:1100x1600
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRectangColumn:400x800
+,,DIESEL ROOM STAIR:DIESEL ROOM STAIR
+,,Basic Wall:Brick 190_HYD
+,,HYD_ConcreteBeam:250D x 2000W
+,,HYD_ConcreteBeam:300D x 1200W
+,,HYD_ConcreteBeam:300D x 2000W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 2000W
+,,HYD_ConcreteBeam:400D x 1000W
+,,Floor:RC 180_HYD
+,,Floor:RC 250_HYD
+,,Foundation Slab:1200 Foundation Slab
+,,Foundation Slab:500 Foundation Slab
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,HYD_ConcreteBeam:500D x 600W
+,,Floor:RC 500 MIN.
+,,Floor:RC 700_HYD
+,,Basic Wall:RC 150 HOB_HYD
+,,ConcreteBeamsetdown:350D x 2400W
+,,HYD_ConcreteBeam:250D x 1000W
+,,HYD_ConcreteBeam:300D x 1800W
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 800W R.C.
+,,HYD_ConcreteBeam:650D x 400W
+,,HYD_ConcRectangColumn:450x700
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcSquareColumn:450x450
+,,Floor:RC 160_HYD
+,,Floor:RC 350_HYD
+,,Floor:RC 500_HYD
+,,HYD_PadFooting:PF10 - 1400 x 600 x 600D
+,,HYD_PadFooting:PF6 - 2700 x 2700 x 1000D
+,,Basic Wall:RC 300 SW CRADLE_HYD
+,,Basic Wall:Block 140_HYD
+,,Basic Wall:RC 150 UPSTAND WALLS
+,,Basic Wall:RC 580 SLAB FOLD_HYD
+,,HYD_ConcreteBeam:300D MIN. x 2000W
+,,HYD_ConcreteBeam:300D x 1280W
+,,HYD_ConcreteBeam:350D MIN x 2000W
+,,HYD_ConcreteBeam:350D x 1475W R.C.
+,,HYD_ConcreteBeam:400D x 1800W
+,,HYD_ConcreteBeam:400D x 2000W
+,,HYD_ConcRectangColumn:400x400
+,,Foundation Slab:300 Foundation Slab
+,,HYD_PadFooting:PF9 - 800 x 800 x 600D
+,,Basic Wall:Block 190_HYD
+,,Basic Wall:Brick 250_HYD
+,,Basic Wall:Brick 350_HYD
+,,Basic Wall:Block 90_HYD
+,,Basic Wall:Brick 230_HYD
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 280 SLAB FOLD_HYD
+,,Basic Wall:RC Upstand 150_HYD
+,,HYD_ConcreteBeam:350D x 2000W R.C.
+,,Floor:RC 220_HYD
+,,Floor:RC 330_HYD
+,,HYD_ConcreteBeam:280D x 2000W
+,,HYD_ConcreteBeam:300D x 1000W
+,,HYD_ConcreteBeam:300D x 1150W
+,,HYD_ConcreteBeam:300D x 1800W R.C.
+,,HYD_ConcreteBeam:300D x 960W
+,,HYD_ConcreteBeam:330D x 2000W
+,,HYD_ConcreteBeam:350D x 2400W
+,,HYD_ConcreteBeam:425D x 2000W
+,,HYD_ConcRectangColumn:600x800
+,,Floor:Bondek Substation 180_HYD
+,,Floor:RC 200 HOB_HYD
+,,Floor:RC 325_HYD
+,,HYD_2_250PFC Pile:2/PFC 1
+,,HYD_2_250PFC Pile:2/PFC 2
+,,HYD_PadFooting:PF8 - 1500 x 1500 x 600D
+,,SUBSTATION STAIR:SUBSTATION STAIR
+,,Basic Wall:RC 250 UPSTAND WALLS
+,,HYD_ConcreteBeam:350D x 1000W
+,,HYD_ConcreteBeam:350D x 900W
+,,HYD_ConcreteBeam:400W x DEPTH VARIES
+,,Floor:RC 585_HYD
+,,Foundation Slab:400 Foundation Slab
+,,HYD_ConcreteBeam:300D MIN x 2000W
+,,HYD_ConcreteBeam:350D x 1200W R.C.
+,,HYD_ConcreteBeam:350D x 1800W R.C.
+,,HYD_UB-300PLUS:360UB56.7
+,,Floor:RC 320_HYD
+,,Floor:RC 600_HYD
+,,Basic Wall:RC 250 SLAB FOLD_HYD
+,,HYD_CHS-C350:914 Dia Stormwater pipe
+,,HYD_ConcreteBeam:280D x 2400W
+,,HYD_ConcreteBeam:350D x 1200W
+,,HYD_ConcreteBeam:350D x 2640W
+,,HYD_ConcreteBeam:400D MIN. x 2000W
+,,HYD_ConcreteBeam:400D x 2700W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 650W CAPPING BEAM
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_UB-300PLUS:250UB31.4
+,,HYD_SHS-Column-C350:89x89x5.0 SHS
+,,Floor:Bondek 120_HYD
+,,Floor:RC 230_HYD
+,,Floor:RC 250 PRECAST_HYD
+,,Floor:RC 350 (330 MIN)_HYD
+,,Floor:RC 510_HYD
+,,SUBSTATION STAIR F2:SUBSTATION STAIR F2
+,,Basic Wall:RC 260 SLAB FOLD_HYD
+,,Basic Wall:RC 400 SLAB FOLD_HYD
+,,Basic Wall:RC 190 SLAB FOLD_HYD
+,,HYD_ConcreteBeam:1240D x 250W
+,,HYD_ConcreteBeam:1240D x 300W
+,,HYD_ConcreteBeam:1500D x 250W
+,,HYD_ConcreteBeam:270D x 900W
+,,HYD_ConcreteBeam:350D MIN x 2400W
+,,HYD_ConcreteBeam:400D x 2400W MIN
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:450D x 900W CAPPING BEAM
+,,HYD_SHS-C350:200x200x10.0 SHS
+,,FABRICATED T:FABRICATED T SECTION
+,,HYD_RHS-Column-C350:400x200x10.0 RHS
+,,HYD_RHS-Column-C350:400x200x16.0 RHS
+,,FIRE EXIT ON PAC HWY:FIRE EXIT ON PAC HWY
+,,SUBSTATION STAIR GROUND:SUBSTATION STAIR GROUND
+,,Basic Wall:RC 2400 SLAB FOLD_HYD
+,,Basic Wall:Precast 250_HYD
+,,FABRICATED T 355 x 16 SECTION:355 X 120 T SECTION
+,,FABRICATED T 400 x 16 SECTION:400 X 120 T SECTION
+,,HYD_ConcreteBeam:300D MIN x 2400W R.C.
+,,HYD_ConcreteBeam:350D x 740W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:425D x 2400W
+,,HYD_ConcreteBeam:700D x 2400W
+,,HYD_ConcreteBeam:850D x 2400W
+,,FABRICATED T 160 x 16 SECTION:FABRICATED T 160 x 45.5 SECTION
+,,HYD_EA-Column-300PLUS:200x200x13 EA
+,,HYD_RHS-Column-C350:300x200x16.0 RHS
+,,Floor:RC 225_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 300 VARIABLE_HYD
+,,Floor:RC 300_HYD TEMP
+,,Floor:RC 305_HYD
+,,Floor:RC 375_HYD
+,,Floor:RC 400_HYD
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D MIN. x 1800W
+,,HYD_ConcreteBeam:420D MIN. x 1800W
+,,HYD_ConcreteBeam:450D x 1800W
+,,HYD_ConcreteBeam:500D x 2700W
+,,HYD_ConcreteBeam:500D x 3000W
+,,HYD_RHS-C350:150x50x6.0 RHS
+,,Floor:RC 170_HYD
+,,Floor:RC 2180_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 680_HYD
+,,Floor:RC 80 SET UP_HYD
+,,LG STEPS:LG STEPS
+,,LOBBY STAIRS:LOBBY STAIRS
+,,Podium Stair:Podium Stair
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:450D x 2500W
+,,HYD_ConcreteBeam:500D x 1800W
+,,HYD_ConcreteBeam:500D x 400W
+,,HYD_PFC-300PLUS:250PFC
+,,HYD_RHS-C350:150x100x5.0 RHS
+,,HYD_RHS-C350:250x150x9.0 RHS
+,,HYD_SHS-C350:100x100x4.0 SHS
+,,HYD_SHS-C350:100x100x9.0 SHS
+,,HYD_RHS-Column-C350:200x100x10.0 RHS
+,,HYD_SHS-Column-C350:150x150x9.0 SHS
+,,Floor:RC 550_HYD
+,,Floor:RC 650_HYD
+,,GR-L1 STAIR:GR-L1 STAIR
+,,Basic Wall:RC 800_HYD
+,,HYD_ConcreteBeam:250D x 1800W
+,,HYD_ConcreteBeam:350D x 2700W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:550D x 2700W
+,,HYD_RHS-C350:200x100x10.0 RHS
+,,HYD_ConcRoundColumn:450 DIA
+,,HYD_CHS-C350:88.9x4.8 CHS
+,,HYD_CPurlinBoxed:C15019
+,,HYD_CPurlinBoxed:C25019
+,,HYD_ConcreteBeam:350D MIN x 900W
+,,HYD_ConcreteBeam:350D x 3000W
+,,HYD_ConcreteBeam:400D x 3000W
+,,HYD_ConcreteBeam:450D x 900W
+,,HYD_ConcreteBeam:550D MIN x 3000W
+,,HYD_ConcreteBeam:600D MIN x 3000W
+,,HYD_ConcreteBeam:600D x 1200W
+,,HYD_ConcreteBeam:600D x 3000W
+,,HYD_PFC-300PLUS:150PFC
+,,HYD_PFC-300PLUS:200PFC
+,,HYD_RHS-C350:400x200x10.0 RHS
+,,HYD_SHS-C350:200x200x5.0 SHS
+,,HYD_ConcRectangColumn:1500x1500
+,,HYD_ConcRoundColumn:1350 DIA
+,,Floor:Bondek 160_HYD
+,,Floor:Precast 220_HYD
+,,Floor:RC 150 HOB_HYD
+,,Floor:RC 260_HYD
+,,Floor:RC 360_HYD
+,,Floor:RC 50 HOB_HYD
+,,Floor:RC 90_HYD
+,,Basic Wall:RC 100 HOB_HYD
+,,Basic Wall:RC 1500_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 465 UPSTAND WALLS
+,,HYD_ConcreteBeam:430D x 1200W
+,,HYD_ConcreteBeam:600D x 2400W
+,,Floor:RC 210_HYD
+,,STAIR L1-L2:STAIR L1-L2
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcreteBeam:430D x 900W
+,,COLS 62 & C63 INFILLS1:COLS 62 & C63 INFILLS
+,,COLS 62 & C63 INFILLS:COLS 62 & C63 INFILLS
+,,Concrete Floor.txt:190 X 75 CRUCIFORM
+,,HYD_ConcreteBeam:800D x 2430W
+,,HYD_EA-300PLUS:90x90x6 EA
+,,HYD_EA-300PLUS:90x90x8 EA
+,,HYD_UC-300PLUS:200UC46.2
+,,HYD_ZPurlin:SZ15015
+,,COLUMNS 64 INFILL:COLUMNS 64 INFILL
+,,HYD_ConcRectangColumn:700x700
+,,HYD_ConcreteBeam:600D x 900W
+,,HYD_ConcreteBeam:320D x 1800W
+,,HYD_ConcreteBeam:370D x 1200W
+,,HYD_ConcRoundColumn:1200 DIA
+,,Floor:RC 25 HOB_HYD
+,,HYD_ConcreteBeam:300D MIN x 900W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:400D x 3600W
+,,HYD_ConcreteBeam:600D x 3600W
+,,HYD_ConcRectangColumn:800x800
+,,HYD_ConcRoundColumn:800 DIA
+,,HYD_ConcSquareColumn:800x800
+,,HYD_ConcRoundColumn:900 DIA
+,,Floor:STEEL PLATE 10
+,,HYD_FlatBar-300PLUS:250x10mm
+,,L19 STAIR FLIGHT 1:L19 STAIR FLIGHT 1
+,,L19 STAIR FLIGHT 2:L19 STAIR FLIGHT 2
+,,HYD_ConcRectangColumn:350x900
+,,stair 2 3d:stair 2 3d
+,,stair 3 3d:stair 3 3d
+,,stair 1 3d:stair 1 3d
+,,stair 2 3d1:stair 2 3d
+,,stair 3 3d1:stair 3 3d
+,,stair 3d:stair 3d
+,,HYD_ConcreteBeam:370D x 900W
+,,HYD_ConcreteBeam:550D x 900W
+,,Floor:RC 140_HYD
+,,Floor:RC 60 HOB_HYD
+,,HYD_CPurlin:C15012
+,,HYD_CPurlin:SC20015
+,,HYD_ConcreteBeam:320D MIN x 900W
+,,HYD_ConcreteBeam:370D MIN x 1200W
+,,HYD_ConcreteBeam:370D x 3000W
+,,HYD_ConcreteBeam:470D MIN x 3000W
+,,HYD_ConcreteBeam:470D x 3000W
+,,HYD_ConcreteBeam:570D MIN x 3000W
+,,HYD_ConcreteBeam:670D MIN x 3000W
+,,HYD_ConcreteBeam:670D x 3000W
+,,HYD_ConcreteBeam:700D x 3000W
+,,HYD_EA-300PLUS:75x75x8 EA
+,,HYD_ConcRectangColumn:160x650
+,,HYD_ConcRectangColumn:400x920
+,,HYD_EA-Column-300PLUS:75x75x8 EA
+,,HYD_PFC-Column-300PLUS:200PFC
+,,HYD_SHS-Column-C350:75x75x4.0 SHS
+,,HYD_UB-Column-300PLUS:250UB31.4
+,,Floor:RC 100 HOB_HYD
+,,Floor:RC 100 HYD
+,,Floor:RC 185_HYD
+,,HYD_ConcreteBeam:600D x 250W
+,,HYD_ConcreteBeam:350D MIN x 1800W
+,,HYD_ConcreteBeam:500D MIN x 3000W
+,,HYD_FlatBar-300PLUS:50x8mm
+,,HYD_UC-300PLUS:250UC72.9
+,,Basic Wall:RC 100 UPSTAND WALLS
+01_006
+,3_300
+,,HYD_ConcreteBeam:200D x 600W
+,,HYD_ConcRectangColumn:300x600
+,,HYD_ConcRectangColumn:350x800
+,,HYD_ConcRectangColumn:500x900
+,,HYD_ConcRoundColumn:1500 DIA
+,,HYD_ConcSquareColumn:500x500
+,,HYD_ConcRectangColumn:1100x1600
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRectangColumn:400x800
+,3_316
+,,Floor:RC 125_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 150_HYD
+,,DIESEL ROOM STAIR:DIESEL ROOM STAIR
+,2_202
+,,Foundation Slab:600 Foundation Slab
+,,HYD_PadFooting:PF1 - 4000 x 4000 x 1800
+,,HYD_PadFooting:PF12 - 1200 x 1200 x 520-650D
+,,HYD_PadFooting:PF2 - 3600 x 3600 x 1800
+,,HYD_PadFooting:PF3 - 1800 x 1700 x 1000D
+,,HYD_PadFooting:PF4 - 1200 x 1200 x 800D
+,,HYD_PadFooting:PF5 - 2300 x 800 x 1000D
+,,HYD_PadFooting:PF7 - 1300 x 1300 x 600D
+,,Foundation Slab:1200 Foundation Slab
+,,Foundation Slab:500 Foundation Slab
+,,HYD_PadFooting:PF10 - 1400 x 600 x 600D
+,,HYD_PadFooting:PF6 - 2700 x 2700 x 1000D
+,,HYD_PadFooting:PF8 - 1500 x 1500 x 600D
+,4_401
+,,Basic Wall:RC 200 SLAB FOLD_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 250 DOWNTURN BEAM
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 300 SW CRADLE_HYD
+,4_414
+,,Basic Wall:Brick 190_HYD
+00_00
+,2_202
+,,HYD_PadFooting:PF2 - 3600 x 3600 x 1800
+,2_200
+,,Circular Mullion:500 DIA PILE
+,3_316
+,,Floor:RC 300_HYD TEMP
+01_009
+,4_401
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 250 DOWNTURN BEAM
+,,Basic Wall:RC 300 SW CRADLE_HYD
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Basic Wall:RC 250 SLAB FOLD_HYD
+,,Basic Wall:RC 260 SLAB FOLD_HYD
+,,Basic Wall:RC 400 SLAB FOLD_HYD
+,,Basic Wall:RC 190 SLAB FOLD_HYD
+,,Basic Wall:RC 2400 SLAB FOLD_HYD
+,,Basic Wall:RC 250 UPSTAND WALLS
+,,Basic Wall:RC 200 SLAB FOLD_HYD
+,,Basic Wall:RC 200 UPSTAND WALLS
+,4_414
+,,Basic Wall:Block 190_HYD
+,,Basic Wall:Brick 250_HYD
+,,Basic Wall:Brick 350_HYD
+,,Basic Wall:Brick 230_HYD
+,,Basic Wall:Brick 190_HYD
+,,Basic Wall:Block 140_HYD
+,3_316
+,,Floor:RC 200_HYD
+,,Floor:RC 125_HYD
+,,Floor:RC 180_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 585_HYD
+,,Floor:RC 320_HYD
+,,Floor:RC 600_HYD
+,,Floor:Bondek 120_HYD
+,,Floor:Bondek Substation 180_HYD
+,,Floor:RC 150_HYD
+,,Floor:RC 230_HYD
+,,Floor:RC 250 PRECAST_HYD
+,,Floor:RC 350 (330 MIN)_HYD
+,,Floor:RC 350_HYD
+,,Floor:RC 500 MIN.
+,,Floor:RC 500_HYD
+,,Floor:RC 510_HYD
+,,SUBSTATION STAIR F2:SUBSTATION STAIR F2
+,,FIRE EXIT ON PAC HWY:FIRE EXIT ON PAC HWY
+,,SUBSTATION STAIR GROUND:SUBSTATION STAIR GROUND
+,,Floor:RC 300_HYD TEMP
+,,Floor:RC 400_HYD
+,,LG STEPS:LG STEPS
+,2_200
+,,HYD_2_250PFC Pile:2/PFC 1
+,,HYD_2_250PFC Pile:2/PFC 2
+,,HYD_CHS-C350:914 Dia Stormwater pipe
+,3_300
+,,HYD_ConcreteBeam:200D x 600W
+,,HYD_ConcreteBeam:300D x 1800W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D MIN x 2000W
+,,HYD_ConcreteBeam:350D x 1000W
+,,HYD_ConcreteBeam:350D x 2000W
+,,HYD_ConcreteBeam:350D x 900W
+,,HYD_ConcreteBeam:400D x 2000W
+,,HYD_ConcreteBeam:400W x DEPTH VARIES
+,,HYD_ConcreteBeam:300D MIN x 2000W
+,,HYD_ConcreteBeam:350D x 1200W R.C.
+,,HYD_ConcreteBeam:350D x 1800W R.C.
+,,HYD_ConcreteBeam:250D x 1000W
+,,HYD_ConcreteBeam:280D x 2400W
+,,HYD_ConcreteBeam:300D x 1000W
+,,HYD_ConcreteBeam:300D x 1200W
+,,HYD_ConcreteBeam:350D x 1200W
+,,HYD_ConcreteBeam:350D x 2400W
+,,HYD_ConcreteBeam:350D x 2640W
+,,HYD_ConcreteBeam:400D MIN. x 2000W
+,,HYD_ConcreteBeam:400D x 2700W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 650W CAPPING BEAM
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:650D x 400W
+,,HYD_ConcRectangColumn:300x600
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRectangColumn:400x400
+,,HYD_ConcRectangColumn:400x800
+,,HYD_ConcRectangColumn:600x800
+,,HYD_SHS-Column-C350:89x89x5.0 SHS
+,,HYD_ConcreteBeam:1240D x 250W
+,,HYD_ConcreteBeam:1240D x 300W
+,,HYD_ConcreteBeam:1500D x 250W
+,,HYD_ConcreteBeam:270D x 900W
+,,HYD_ConcreteBeam:350D MIN x 2400W
+,,HYD_ConcreteBeam:400D x 2400W MIN
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:450D x 900W CAPPING BEAM
+,,FABRICATED T:FABRICATED T SECTION
+,,HYD_RHS-Column-C350:400x200x10.0 RHS
+,,HYD_ConcreteBeam:300D MIN x 2400W R.C.
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:700D x 2400W
+,,HYD_ConcreteBeam:850D x 2400W
+,,FABRICATED T 160 x 16 SECTION:FABRICATED T 160 x 45.5 SECTION
+,2_202
+,,Foundation Slab:400 Foundation Slab
+,3_308
+,,HYD_UB-300PLUS:360UB56.7
+,,HYD_UB-300PLUS:250UB31.4
+,4_404
+,,Basic Wall:Precast 250_HYD
+01_008
+,4_401
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Basic Wall:RC 280 SLAB FOLD_HYD
+,,Basic Wall:RC Upstand 150_HYD
+,,Basic Wall:RC 300 SW CRADLE_HYD
+,,Basic Wall:RC 250 UPSTAND WALLS
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 250 DOWNTURN BEAM
+,3_300
+,,HYD_ConcreteBeam:250D x 2000W
+,,HYD_ConcreteBeam:300D MIN. x 2000W
+,,HYD_ConcreteBeam:300D x 1280W
+,,HYD_ConcreteBeam:300D x 1800W
+,,HYD_ConcreteBeam:300D x 2000W
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D MIN x 2000W
+,,HYD_ConcreteBeam:350D x 1475W R.C.
+,,HYD_ConcreteBeam:350D x 2000W
+,,HYD_ConcreteBeam:400D x 1800W
+,,HYD_ConcreteBeam:400D x 2000W
+,,HYD_ConcRectangColumn:300x600
+,,HYD_ConcRectangColumn:400x400
+,,HYD_ConcreteBeam:350D x 2000W R.C.
+,,HYD_ConcreteBeam:250D x 1000W
+,,HYD_ConcreteBeam:280D x 2000W
+,,HYD_ConcreteBeam:300D x 1000W
+,,HYD_ConcreteBeam:300D x 1150W
+,,HYD_ConcreteBeam:300D x 1800W R.C.
+,,HYD_ConcreteBeam:300D x 960W
+,,HYD_ConcreteBeam:330D x 2000W
+,,HYD_ConcreteBeam:350D x 2400W
+,,HYD_ConcreteBeam:425D x 2000W
+,,HYD_ConcreteBeam:650D x 400W
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRectangColumn:400x800
+,,HYD_ConcRectangColumn:600x800
+,,HYD_ConcreteBeam:400W x DEPTH VARIES
+,2_200
+,,Circular Mullion:2PFC MULLION
+,,System Panel:180 Shotcrete -35 offset
+,,_NotFound
+,,System Panel:300 Shotcrete
+,,System Panel:300 Shotcrete 150 offset
+,,System Panel:180 Shotcrete
+,,HYD_2_250PFC Pile:2/PFC 1
+,,HYD_2_250PFC Pile:2/PFC 2
+,,HYD_CHS-C350:914 Dia Stormwater pipe
+,3_316
+,,Floor:RC 160_HYD
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 350_HYD
+,,Floor:RC 150_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 330_HYD
+,,Floor:Bondek Substation 180_HYD
+,,Floor:RC 200 HOB_HYD
+,,Floor:RC 325_HYD
+,,SUBSTATION STAIR:SUBSTATION STAIR
+,,SUBSTATION STAIR F2:SUBSTATION STAIR F2
+,2_202
+,,Foundation Slab:600 Foundation Slab
+,,HYD_PadFooting:PF9 - 800 x 800 x 600D
+,,HYD_PadFooting:PF7 - 1300 x 1300 x 600D
+,4_414
+,,Basic Wall:Block 190_HYD
+,,Basic Wall:Brick 350_HYD
+,,Basic Wall:Block 140_HYD
+,,Basic Wall:Block 90_HYD
+,,Basic Wall:Brick 230_HYD
+,3_308
+,,HYD_UB-300PLUS:360UB56.7
+01_007
+,4_401
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 150 HOB_HYD
+,,Basic Wall:RC 300 SW CRADLE_HYD
+,,Basic Wall:RC 150 UPSTAND WALLS
+,,Basic Wall:RC 580 SLAB FOLD_HYD
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 250 DOWNTURN BEAM
+,3_300
+,,HYD_ConcRectangColumn:300x600
+,,HYD_ConcreteBeam:250D x 2000W
+,,HYD_ConcreteBeam:300D x 1200W
+,,HYD_ConcreteBeam:300D x 2000W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 2000W
+,,HYD_ConcreteBeam:400D x 1000W
+,,HYD_ConcSquareColumn:500x500
+,,HYD_ConcreteBeam:200D x 600W
+,,HYD_ConcreteBeam:500D x 600W
+,,ConcreteBeamsetdown:350D x 2400W
+,,HYD_ConcreteBeam:250D x 1000W
+,,HYD_ConcreteBeam:300D x 1800W
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 800W R.C.
+,,HYD_ConcreteBeam:650D x 400W
+,,HYD_ConcRectangColumn:1100x1600
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRectangColumn:400x800
+,,HYD_ConcRectangColumn:450x700
+,,HYD_ConcRoundColumn:1500 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcSquareColumn:450x450
+,3_316
+,,Floor:RC 125_HYD
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 500 MIN.
+,,Floor:RC 700_HYD
+,,Floor:RC 160_HYD
+,,Floor:RC 350_HYD
+,,Floor:RC 500_HYD
+,,Floor:RC 150_HYD
+,2_202
+,,Foundation Slab:1200 Foundation Slab
+,,Foundation Slab:500 Foundation Slab
+,,HYD_PadFooting:PF7 - 1300 x 1300 x 600D
+,,HYD_PadFooting:PF2 - 3600 x 3600 x 1800
+,,HYD_PadFooting:PF6 - 2700 x 2700 x 1000D
+,,Foundation Slab:300 Foundation Slab
+,,Foundation Slab:600 Foundation Slab
+,,HYD_PadFooting:PF9 - 800 x 800 x 600D
+,4_414
+,,Basic Wall:Block 140_HYD
+,,Basic Wall:Block 190_HYD
+,,Basic Wall:Brick 230_HYD
+,2_200
+,,_NotFound
+,,Circular Mullion:2PFC MULLION
+,,System Panel:180 Shotcrete -35 offset
+,,Circular Mullion:2 300PFC MULLION
+,,System Panel:300 Shotcrete
+,,Circular Mullion:500 DIA PILE
+,,System Panel:180 Shotcrete
+01_010
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Basic Wall:RC 250 UPSTAND WALLS
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcRoundColumn:1500 DIA
+,,HYD_ConcreteBeam:450D x 900W CAPPING BEAM
+,,FABRICATED T:FABRICATED T SECTION
+,,HYD_RHS-Column-C350:400x200x10.0 RHS
+,,HYD_RHS-Column-C350:400x200x16.0 RHS
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1000W
+,,HYD_ConcreteBeam:350D x 2400W
+,,HYD_ConcreteBeam:350D x 740W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:425D x 2400W
+,,FABRICATED T 160 x 16 SECTION:FABRICATED T 160 x 45.5 SECTION
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRectangColumn:400x800
+,,HYD_EA-Column-300PLUS:200x200x13 EA
+,,HYD_RHS-Column-C350:300x200x16.0 RHS
+,,HYD_ConcreteBeam:300D x 1000W
+,,HYD_ConcreteBeam:300D x 1800W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:350D x 1800W R.C.
+,,HYD_ConcreteBeam:350D x 900W
+,,HYD_ConcreteBeam:400D MIN. x 1800W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:420D MIN. x 1800W
+,,HYD_ConcreteBeam:450D x 1800W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:500D x 2700W
+,,HYD_ConcreteBeam:500D x 3000W
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_RHS-Column-C350:200x100x10.0 RHS
+,,Concrete Floor.txt:190 X 75 CRUCIFORM
+,4_414
+,,Basic Wall:Brick 230_HYD
+,,Basic Wall:Block 190_HYD
+,3_308
+,,HYD_SHS-C350:200x200x10.0 SHS
+,,FABRICATED T 355 x 16 SECTION:355 X 120 T SECTION
+,,FABRICATED T 400 x 16 SECTION:400 X 120 T SECTION
+,,HYD_RHS-C350:150x50x6.0 RHS
+,,HYD_RHS-C350:200x100x10.0 RHS
+,3_316
+,,Floor:Bondek 120_HYD
+,,Floor:RC 350 (330 MIN)_HYD
+,,Floor:RC 350_HYD
+,,Floor:RC 225_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 300 VARIABLE_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 300_HYD TEMP
+,,Floor:RC 305_HYD
+,,Floor:RC 375_HYD
+,,Floor:RC 400_HYD
+,,Floor:RC 600_HYD
+,,Floor:RC 170_HYD
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 2180_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 500_HYD
+,,Floor:RC 680_HYD
+,,Floor:RC 80 SET UP_HYD
+,,LG STEPS:LG STEPS
+,,LOBBY STAIRS:LOBBY STAIRS
+,,Podium Stair:Podium Stair
+,,GR-L1 STAIR:GR-L1 STAIR
+01_011
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 800_HYD
+,,Basic Wall:RC 250 UPSTAND WALLS
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,4_414
+,,Basic Wall:Block 190_HYD
+,3_300
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcreteBeam:300D x 1800W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 1800W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 2500W
+,,HYD_ConcreteBeam:500D x 1800W
+,,HYD_ConcreteBeam:500D x 2700W
+,,HYD_ConcreteBeam:500D x 400W
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRectangColumn:400x800
+,,HYD_SHS-Column-C350:150x150x9.0 SHS
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:550D x 2700W
+,3_308
+,,HYD_RHS-C350:150x100x5.0 RHS
+,,HYD_SHS-C350:100x100x4.0 SHS
+,,HYD_SHS-C350:100x100x9.0 SHS
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 230_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 350_HYD
+,,Floor:RC 400_HYD
+,,Floor:RC 550_HYD
+,,Floor:RC 650_HYD
+,,GR-L1 STAIR:GR-L1 STAIR
+,,STAIR L1-L2:STAIR L1-L2
+01_012
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,4_414
+,,Basic Wall:Block 190_HYD
+,3_300
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcreteBeam:250D x 1800W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1200W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:350D x 2700W
+,,HYD_ConcreteBeam:350D x 900W
+,,HYD_ConcreteBeam:400D x 1800W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:500D x 1800W
+,,HYD_ConcreteBeam:500D x 2700W
+,,HYD_ConcreteBeam:500D x 400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:550D x 2700W
+,,HYD_ConcRectangColumn:300x800
+,,HYD_ConcRoundColumn:1500 DIA
+,,HYD_ConcRoundColumn:450 DIA
+,,HYD_ConcreteBeam:550D MIN x 3000W
+,,HYD_ConcreteBeam:600D x 3000W
+,,HYD_ConcreteBeam:800D x 2430W
+,3_308
+,,HYD_RHS-C350:150x100x5.0 RHS
+,,HYD_RHS-C350:200x100x10.0 RHS
+,,HYD_SHS-C350:100x100x9.0 SHS
+,,HYD_SHS-C350:200x200x5.0 SHS
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 225_HYD
+,,Floor:RC 230_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 400_HYD
+,,Floor:RC 600_HYD
+,,STAIR L1-L2:STAIR L1-L2
+01_013
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 250 UPSTAND WALLS
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 100 HOB_HYD
+,,Basic Wall:RC 1500_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 465 UPSTAND WALLS
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,4_414
+,,Basic Wall:Block 190_HYD
+,,Basic Wall:Block 140_HYD
+,3_308
+,,HYD_RHS-C350:150x100x5.0 RHS
+,,HYD_CHS-C350:88.9x4.8 CHS
+,,HYD_CPurlinBoxed:C15019
+,,HYD_CPurlinBoxed:C25019
+,,HYD_PFC-300PLUS:150PFC
+,,HYD_PFC-300PLUS:200PFC
+,,HYD_RHS-C350:200x100x10.0 RHS
+,,HYD_RHS-C350:400x200x10.0 RHS
+,,HYD_SHS-C350:100x100x9.0 SHS
+,,HYD_EA-300PLUS:90x90x6 EA
+,,HYD_EA-300PLUS:90x90x8 EA
+,,HYD_SHS-C350:200x200x10.0 SHS
+,,HYD_UC-300PLUS:200UC46.2
+,3_300
+,,HYD_ConcreteBeam:300D x 1800W
+,,HYD_ConcreteBeam:350D MIN x 900W
+,,HYD_ConcreteBeam:350D x 3000W
+,,HYD_ConcreteBeam:350D x 900W
+,,HYD_ConcreteBeam:400D x 1800W
+,,HYD_ConcreteBeam:400D x 3000W
+,,HYD_ConcreteBeam:450D x 900W
+,,HYD_ConcreteBeam:500D x 400W
+,,HYD_ConcreteBeam:550D MIN x 3000W
+,,HYD_ConcreteBeam:600D MIN x 3000W
+,,HYD_ConcreteBeam:600D x 1200W
+,,HYD_ConcreteBeam:600D x 3000W
+,,HYD_ConcRectangColumn:1100x1600
+,,HYD_ConcRectangColumn:1500x1500
+,,HYD_ConcRoundColumn:1350 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcreteBeam:300D x 1200W
+,,HYD_ConcreteBeam:800D x 2430W
+,3_316
+,,Floor:Bondek 120_HYD
+,,Floor:Bondek 160_HYD
+,,Floor:Precast 220_HYD
+,,Floor:RC 150 HOB_HYD
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 260_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 350_HYD
+,,Floor:RC 360_HYD
+,,Floor:RC 50 HOB_HYD
+,,Floor:RC 600_HYD
+,,Floor:RC 90_HYD
+01_018
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,COLUMNS 64 INFILL:COLUMNS 64 INFILL
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_019
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRectangColumn:700x700
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcreteBeam:600D x 900W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_020
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcreteBeam:600D x 900W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 330_HYD
+01_021
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_017
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,COLS 62 & C63 INFILLS1:COLS 62 & C63 INFILLS
+,,COLS 62 & C63 INFILLS:COLS 62 & C63 INFILLS
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_014
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:1500 DIA
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:430D x 1200W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_015
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 330_HYD
+01_016
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 450_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,,Basic Wall:RC 400 HB3_HYD
+,,Basic Wall:RC 800_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1300 DIA
+,,HYD_ConcRoundColumn:1400 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 330_HYD
+01_022
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:320D x 1800W
+,,HYD_ConcreteBeam:350D x 1800W
+,,HYD_ConcreteBeam:370D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1200 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 25 HOB_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 330_HYD
+01_023
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1200 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_024
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1200 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_025
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D MIN x 900W
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1200 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcreteBeam:550D x 2400W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 230_HYD
+,,Floor:RC 25 HOB_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_026
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1200 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_027
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:1200 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcreteBeam:600D x 3600W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_028
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 3600W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcreteBeam:600D x 3600W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRectangColumn:800x800
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:800 DIA
+,,HYD_ConcSquareColumn:800x800
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_029
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_308
+,,HYD_RHS-C350:250x150x9.0 RHS
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRectangColumn:800x800
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,,HYD_ConcreteBeam:600D x 1200W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:STEEL PLATE 10
+,,L19 STAIR FLIGHT 1:L19 STAIR FLIGHT 1
+,,L19 STAIR FLIGHT 2:L19 STAIR FLIGHT 2
+01_030
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_308
+,,HYD_RHS-C350:250x150x9.0 RHS
+,,HYD_FlatBar-300PLUS:250x10mm
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 1200W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,L19 STAIR FLIGHT 2:L19 STAIR FLIGHT 2
+01_031
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_032
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_033
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:430D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRectangColumn:365x700
+,,HYD_ConcRectangColumn:450x1200
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_034
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_035
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,,HYD_ConcreteBeam:550D x 2400W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_036
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,stair 2 3d:stair 2 3d
+,,stair 3 3d:stair 3 3d
+,,stair 1 3d:stair 1 3d
+,,stair 3d:stair 3d
+01_037
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 300 SLAB FOLD_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,stair 1 3d:stair 1 3d
+,,stair 2 3d1:stair 2 3d
+,,stair 3 3d1:stair 3 3d
+,,stair 3d:stair 3d
+01_038
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:400D x 900W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,,HYD_ConcreteBeam:550D x 900W
+,,HYD_ConcreteBeam:600D x 2400W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_039
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:370D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:550D x 900W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,3_316
+,,Floor:RC 140_HYD
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 60 HOB_HYD
+01_040
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 250 UPSTAND WALLS
+,,Basic Wall:RC Upstand 250_HYD
+,3_300
+,,HYD_ConcreteBeam:300D x 2400W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:400D x 1200W
+,,HYD_ConcreteBeam:400D x 2400W
+,,HYD_ConcreteBeam:450D x 2400W
+,,HYD_ConcreteBeam:500D x 2400W
+,,HYD_ConcreteBeam:550D x 2430W
+,,HYD_ConcreteBeam:600D x 2400W
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRoundColumn:1100 DIA
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,,HYD_ConcreteBeam:570D MIN x 3000W
+,,HYD_ConcreteBeam:600D x 3000W
+,,HYD_ConcreteBeam:670D MIN x 3000W
+,,HYD_ConcreteBeam:670D x 3000W
+,,HYD_ConcreteBeam:700D x 3000W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 210_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 275_HYD
+,,Floor:RC 280_HYD
+,,Floor:RC 300_HYD
+01_041
+,4_401
+,,Basic Wall:RC 250_HYD
+,,Basic Wall:RC 150_HYD
+,,Basic Wall:RC 400_HYD
+,,Basic Wall:RC 200_HYD
+,,Basic Wall:RC 300_HYD
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 350_HYD
+,,Basic Wall:RC Upstand 250_HYD
+,3_308
+,,HYD_PFC-300PLUS:250PFC
+,,HYD_PFC-300PLUS:150PFC
+,,HYD_CPurlin:C15012
+,,HYD_CPurlin:SC20015
+,,HYD_EA-300PLUS:75x75x8 EA
+,,HYD_PFC-300PLUS:200PFC
+,3_300
+,,HYD_ConcreteBeam:320D MIN x 900W
+,,HYD_ConcreteBeam:370D MIN x 1200W
+,,HYD_ConcreteBeam:370D x 3000W
+,,HYD_ConcreteBeam:470D MIN x 3000W
+,,HYD_ConcreteBeam:470D x 3000W
+,,HYD_ConcreteBeam:500D x 3000W
+,,HYD_ConcreteBeam:570D MIN x 3000W
+,,HYD_ConcreteBeam:600D x 3000W
+,,HYD_ConcreteBeam:670D MIN x 3000W
+,,HYD_ConcreteBeam:670D x 3000W
+,,HYD_ConcreteBeam:700D x 3000W
+,,HYD_ConcRectangColumn:160x650
+,,HYD_ConcRectangColumn:300x600
+,,HYD_ConcRectangColumn:350x900
+,,HYD_ConcRectangColumn:400x920
+,,HYD_ConcRoundColumn:700 DIA
+,,HYD_ConcRoundColumn:900 DIA
+,,HYD_EA-Column-300PLUS:75x75x8 EA
+,,HYD_PFC-Column-300PLUS:200PFC
+,,HYD_SHS-Column-C350:75x75x4.0 SHS
+,,HYD_UB-Column-300PLUS:250UB31.4
+,,HYD_ConcreteBeam:600D x 250W
+,3_316
+,,Floor:RC 100 HOB_HYD
+,,Floor:RC 100 HYD
+,,Floor:RC 150 HOB_HYD
+,,Floor:RC 180_HYD
+,,Floor:RC 185_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 220_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 320_HYD
+,,Floor:RC 350_HYD
+,0_00
+,,_NotFound
+01_042
+,3_308
+,,HYD_UB-300PLUS:250UB31.4
+,,HYD_ZPurlin:SZ15015
+,,HYD_FlatBar-300PLUS:50x8mm
+,,HYD_PFC-300PLUS:200PFC
+,,HYD_UC-300PLUS:250UC72.9
+,3_300
+,,HYD_ConcreteBeam:300D MIN x 900W
+,,HYD_ConcreteBeam:300D x 900W
+,,HYD_ConcreteBeam:350D MIN x 1800W
+,,HYD_ConcreteBeam:500D MIN x 3000W
+,3_316
+,,Floor:RC 180_HYD
+,,Floor:RC 200_HYD
+,,Floor:RC 250_HYD
+,,Floor:RC 300_HYD
+,,Floor:RC 600_HYD
+,4_401
+,,Basic Wall:RC 100 UPSTAND WALLS
+,,Basic Wall:RC 200 UPSTAND WALLS
+,,Basic Wall:RC 400_HYD
